@@ -15,6 +15,7 @@
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
+- No navegador: colocar o endereço IP
 
 ### Resutados
 
